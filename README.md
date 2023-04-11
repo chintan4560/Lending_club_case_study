@@ -14,9 +14,9 @@ Created by [@iamnarendrasingh] & [@chintan4560] - feel free to contact us!
 ## Table of Contents
 * [General Info](#general-information)
 * [Data Processing](#data-processing)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Data Analysis](#EDA)
+* [Model Building]
+* [Conclusion]
 
 <!-- You can include any other section that is pertinent to your problem -->
 
